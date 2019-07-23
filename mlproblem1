@@ -1,4 +1,7 @@
+#importing required modules
+
 import numpy as np
+
 a=input('enter the desired number of rows')
 b-input('enter the desired number of columns')
 array1=np.random.rand(a,b)
