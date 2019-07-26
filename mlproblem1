@@ -2,7 +2,7 @@
 
 import numpy as np
 
-a=input('enter the desired number of rows')
+a=input('enter the desired number of rows') #inserting rows
 b-input('enter the desired number of columns')
 array1=np.random.rand(a,b)
 print(array1)
