@@ -2,4 +2,4 @@ import numpy as np
 # Creating a numpy array with random values ranging from 100-200
 # slicing array from 0 to 16th row and reshaping it into 8x2 
 arr=np.arange(100,200,5)[0:16].reshape(8,2)
-print(arr)
+print(arr) #after reshaping
